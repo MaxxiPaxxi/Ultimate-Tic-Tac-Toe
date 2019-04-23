@@ -33,4 +33,5 @@ For example : If player 1 chooses to put their pin in the higher left corner, th
 
 
 Enjoy the game !!!
-In case of any faulty code, we will be great;y thankful if by any means you could make us aware of this issue.
+
+In case of any faulty code, we will be greatly thankful if by any means you could make us aware of this issue.
