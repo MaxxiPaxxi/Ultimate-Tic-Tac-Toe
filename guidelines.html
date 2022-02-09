@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/style_2.css">
+    <title> Ultimate Tic Tac Toe</title>
+</head>
+
+<body>
+
+    <h1>Welcome to the Ultimate Tic Tac Toe</h1>
+    <p id='title'>A strategic boardgame for 2 players</p>
+    <br>
+    <h2>Here are the rules</h2>
+    <p>This game is intended for 2 players. The goal of this game is just like tic-tac-toe class,
+        you win by getting 3 in a row. Each smaller 3x3 grids are called the local boards and the larger 3x3 grid is the global board.
+        When player X plays in a spot, the local board in which player Y will be able to play will be deciding using the position of player X's tic relative to the local board.
+        For example,
+        The game starts with X playing wherever they want in any of the 81 empty spots. This move "sends" their opponent to its relative location. For example, if X played in the top right square of their local board, then O needs to play next in the local board at the top right of the global board. O can then play in any one of the nine available spots in that local board, each move sending X to a different local board.
+        When a player wins a local board, it is marked by him and is made unavailable, thus sending players anywhere to the global board when played upon.
+        And thus players play until one of them wins 3 local boards in a row.
+    </p>
+    <p>For more detailed information on the rules, <a href='https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe' target="_blank">click here</a></p>
+    <div class="link_play">
+        <a href='game.html' class='button'><span>Enough chit-chat - Let's Play</span></a>
+    </div>
+    
+</body>
+
+</html>

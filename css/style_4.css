@@ -1,0 +1,18 @@
+.title {
+    padding: 30px;
+    background-color: rgba(255, 0, 47, 0.116);
+}
+h1 {
+    text-align: center;
+    font: 80px Helvetica, Sans-Serif;
+    letter-spacing: -5px;
+    color: rgba(0,0,255,0.5); 
+  }
+  p {
+    text-align: center;
+    font: 25px Helvetica, Sans-serif;
+    color: rgb(162, 0, 255);
+  }
+#winner {
+    color: rgba(255, 0, 64, 0.5)
+}
