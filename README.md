@@ -1,18 +1,14 @@
 # Ultimate-Tic-Tac-Toe
 #############################################
 
-Description :
+## Description :
 
 Ultimate Tic-Tac-Toe is a more advanced version of the classic version of Tic Tac Toe which works by adding Tic-Tac-Toes inside each and everyone of the squares of the « big » Tic-Tac-Toe.
 It adds more strategy and more possibilities to a relatively easy game to begin with.
 
 #############################################
 
-Installation :
-
-#############################################
-
-Rules :
+## Rules :
 
 The rules are pretty easy.
 
